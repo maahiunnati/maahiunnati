@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maahiunnati
+- 👋 Hi, I’m <b>@maahiunnati</b>
 - 👀 I’m interested in web development
      and competitive programming
 - 🌱 I’m currently learning computer science
