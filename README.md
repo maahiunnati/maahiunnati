@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
      and competitive programming
 - 🌱 I’m currently learning computer science
-- ⭐ learner soul. 
+ 
 
 
 
